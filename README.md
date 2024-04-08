@@ -93,7 +93,7 @@ ORDER BY
     salary_year_avg DESC ;
 ```
 
-![Skills count for the top 10 paying Data Analyst jobs in 2023](assets\2_top_paying_job_skills.png)
+![Skills count for the top 10 paying Data Analyst jobs in 2023](assets\2_top_paying_job_skills.png) https://github.com/DataVizStory/SQL_PROJECT_DATA_JOB_ANALYSIS/blob/main/assets/2_top_paying_job_skills.png
 
 **SQL** is leading with a bold count of 8 across the top-paying roles, 
 highlighting its fundamental importance for data manipulation and analysis tasks.
