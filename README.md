@@ -30,7 +30,7 @@ Queries in this project aimed to investigate specific facets of the data analysi
 Here's my approach to each question:
 
 ### 1. Top-paying data analyst jobs
-o pinpoint the highest-paying positions, I sifted through data analyst roles based on average salary and location, with a focus on remote opportunities. This query returns the lucrative prospects within the field.
+Тo pinpoint the highest-paying positions, I sifted through data analyst roles based on average salary and location, with a focus on remote opportunities. This query returns the lucrative prospects within the field.
 
 ```sql
 SELECT
