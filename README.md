@@ -55,7 +55,7 @@ LIMIT 10;
 
 ```
 
-![Top 10 Remote Data Analysis Jobs with Highest Salaries in 2023](1_top_paying_jobs.png)
+![Top 10 Remote Data Analysis Jobs with Highest Salaries in 2023](https://github.com/DataVizStory/SQL_PROJECT_DATA_JOB_ANALYSIS/blob/main/assets/1_top_paying_jobs.png)
 
 The analysis of the top 10 highest-paying remote Data Analyst jobs in 2023 provides valuable insights into the landscape of data analysis opportunities. The top 10 paying data analyst roles range from $184,000 to $650,000, indicating significant salary potential in the field. The presence of titles such as Director of Analytics, Associate Director - Data Insights, and Principal Data Analyst indicates a hierarchy within the field, with higher-ranking positions commanding significantly higher salaries. Furthermore, the prevalence of full-time positions underscores the commitment required for these roles, suggesting that employers prioritize consistency and dedication in their remote workforce. 
 
